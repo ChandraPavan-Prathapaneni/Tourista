@@ -1,4 +1,4 @@
-import logo from "../images/logo.svg";
+import logo from "../images/logo.png";
 import { pageLinks, socialLinks } from "../data";
 import PageLinks from "./PageLinks";
 import SocialLink from "./SocialLink";
@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-center">
         <div className="nav-header">
-          <img src={logo} className="nav-logo" alt="backroads" />
+          <img src={logo} className="nav-logo w-24 h-14" alt="Tourista" />
           <button type="button" className="nav-toggle" id="nav-toggle">
             <i className="fas fa-bars"></i>
           </button>
