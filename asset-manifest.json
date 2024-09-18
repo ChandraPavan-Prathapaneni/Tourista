@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tourista/static/css/main.a9f9081e.css",
+    "main.js": "/Tourista/static/js/main.66296ee2.js",
+    "static/media/about.jpeg": "/Tourista/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
+    "static/media/main.jpeg": "/Tourista/static/media/main.1486d4061cd0252b9a21.jpeg",
+    "static/media/tour-1.jpeg": "/Tourista/static/media/tour-1.7249f01d0247bb61be6c.jpeg",
+    "static/media/tour-3.jpeg": "/Tourista/static/media/tour-3.be0128f4564f9fdeff41.jpeg",
+    "static/media/tour-2.jpeg": "/Tourista/static/media/tour-2.9b623865a74489b82b8a.jpeg",
+    "static/media/tour-4.jpeg": "/Tourista/static/media/tour-4.54a5dbc7421eba8708c8.jpeg",
+    "index.html": "/Tourista/index.html",
+    "main.a9f9081e.css.map": "/Tourista/static/css/main.a9f9081e.css.map",
+    "main.66296ee2.js.map": "/Tourista/static/js/main.66296ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f9081e.css",
+    "static/js/main.66296ee2.js"
+  ]
+}
